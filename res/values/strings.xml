@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mi Primera App</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="button">Boton</string>
+    <string name="action_follow">Siguenos en Twitter</string>
+    <string name="action_go">Visita nuestra web</string>
+    <string name="action_actividad1">Actividad1</string>
+    <string name="action_close">Cerrar</string>
+    <string name="Actividad1">Pestaña1</string>
+    
+
+</resources>
